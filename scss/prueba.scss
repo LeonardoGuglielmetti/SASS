@@ -1,0 +1,27 @@
+div {
+    background-color: red;
+    height: 300px;
+    width: 300px;
+
+    &:hover {
+        display: flexbox;
+        height: 50px;
+        width: 50x;
+    }
+}
+
+p {
+    background-color: white;
+    font-size: 30px;
+
+}
+h1{
+    color: red;
+}
+
+$colorUno: red
+
+ul {
+    display:flex
+    background-color: black;
+    }
